@@ -12,5 +12,6 @@ public class HolaMundo {
 		System.out.println("Lo solucionamos para subirlo al repositorio");
 		System.out.println("Esta linea fue modificada desde Git Hub");
 		System.out.println("Se modifica la linea en el local para llevar a remoto");
+		System.out.println("Esta es una nueva impresion desde GitHub");
 	}
 }
