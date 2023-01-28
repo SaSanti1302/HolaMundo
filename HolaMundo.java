@@ -11,5 +11,6 @@ public class HolaMundo {
 		System.out.println("Hubo un conflicto porque se cambio lo mismo en ambas ramas");
 		System.out.println("Lo solucionamos para subirlo al repositorio");
 		System.out.println("Esta linea fue modificada desde Git Hub");
+		System.out.println("Se modifica la linea en el local para llevar a remoto");
 	}
 }
