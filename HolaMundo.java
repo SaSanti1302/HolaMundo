@@ -13,5 +13,6 @@ public class HolaMundo {
 		System.out.println("Esta linea fue modificada desde Git Hub");
 		System.out.println("Se modifica la linea en el local para llevar a remoto");
 		System.out.println("Esta es una nueva impresion desde GitHub");
+		System.out.println("Esta es una nueva impresion desde repositorio local");
 	}
 }
